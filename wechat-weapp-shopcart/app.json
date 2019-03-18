@@ -1,0 +1,11 @@
+{
+  "pages": [
+    
+    "pages/shopcart/shopcart",
+    "pages/checkbox/checkbox"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTextStyle": "white"
+  }
+}
