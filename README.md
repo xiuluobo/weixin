@@ -15,3 +15,9 @@ swiper入门demo
 
 5.wx_meizi
 妹子图
+
+6.dist
+weui官方代码
+
+7.豆瓣图书
+有3个例子，doubantushu是网上找的，my_douban是我改过的，DouBanBookApp是网上的另一个版本。
